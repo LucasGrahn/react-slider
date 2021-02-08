@@ -33,7 +33,7 @@ const App: React.FC = () => {
     <React.Fragment>
       <GlobalStyle/>
       <Container>
-        <h1>React Slider Demo</h1>
+        <h1>React Carousel Demo</h1>
         <Slider items={defaultItems}/>
       </Container>
     </React.Fragment>
